@@ -1,0 +1,7 @@
+1- I've installed Kicad, Fusion360 and every other required file before starting anything.
+2- Imported the kicad libraries into Kicad.
+3- Connected board with 3 push switches and ground
+4- Kicad crashed because i imported a library that i forgot to import.
+5- Added footprints to everything.
+6- Routing was very hard but I finished routing.
+7- I've finished defining size of board, end of devlog A.
